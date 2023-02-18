@@ -1,4 +1,4 @@
-# AWS-EKS-kops
+# K8s-kops
 ## kops Cluster creation
 ### Prequisites
 
