@@ -2,17 +2,17 @@
 ## kops Cluster creation
 ### Prequisites
 
-- Create a Domain for Kubernetes DNS records.
-- Create a linux VM and Setup.
+1 Create a Domain for Kubernetes DNS records.
+1 Create a linux VM and Setup.
   - kops, kubectl, ssh keys, awscli
-- Login to AWS Account and Setup.
+1 Login to AWS Account and Setup.
   - S3 Bucket, IAM User for AWSCLI, Route53 Hosted Zone
 
 ## Installations 
 
 ### _kubectl on Linux VM_
 
-[source:kubectl](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html)
+[source:kubectl](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html) (Refer this document for Insatallation)
 
 
 ```sh
