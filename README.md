@@ -19,7 +19,7 @@ ssh-keygen
 ```
 3. ### _kubectl on Linux VM_
 
-   [source:kubectl](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html) (_Refer this document for Insatallation_)
+   [source:kubectl](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html) (_Refer this document for Installation_)
 
 ```sh
 curl -O https://s3.us-west-2.amazonaws.com/amazon-eks/1.24.10/2023-01-30/bin/linux/amd64/kubectl
