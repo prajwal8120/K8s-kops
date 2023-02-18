@@ -10,9 +10,9 @@
 
 # Installations 
 
-## _kubectl on Linux VM
+### _kubectl on Linux VM
 
-[![kubectl](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html)]
+[kubectl](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html)
 
 
 ```sh
