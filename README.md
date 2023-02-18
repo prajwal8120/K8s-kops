@@ -29,7 +29,7 @@ kubectl --version
 ```
 4. ### _kops_creation_
 
-[source:kops](https://kubernetes.io/docs/setup/production-environment/tools/kops/) (_refer this document for kops installation_)
+   [source:kops](https://kubernetes.io/docs/setup/production-environment/tools/kops/) (_refer this document for kops installation_)
 
 
 
