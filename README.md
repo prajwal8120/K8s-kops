@@ -11,7 +11,7 @@
 ## Installations 
 
 1. ### _Install AWS ClI on VM_
-[source:AWS_CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+   [source:AWS_CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) (_Refer this document for Insatallation_)
 
 2. ### _SSH Key gen_
 ```sh
@@ -20,7 +20,7 @@ ssh-keygen
 
 3. ### _kubectl on Linux VM_
 
-[source:kubectl](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html) (Refer this document for Insatallation)
+   [source:kubectl](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html) (_Refer this document for Insatallation_)
 
 
 
