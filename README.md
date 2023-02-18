@@ -4,7 +4,7 @@
 
 1. Create a Domain for Kubernetes DNS records.
 1. Create a linux VM and Setup.
-   - awscli, ssh keys, kops, kubectl
+   - awscli, ssh keys, kubectl, kops
 1. Login to AWS Account and Setup.
    - S3 Bucket, IAM User for AWSCLI, Route53 Hosted Zone
 
@@ -17,10 +17,24 @@
 ```sh
 ssh-keygen
 ```
-
 3. ### _kubectl on Linux VM_
 
    [source:kubectl](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html) (_Refer this document for Insatallation_)
+
+```sh
+curl -O https://s3.us-west-2.amazonaws.com/amazon-eks/1.24.10/2023-01-30/bin/linux/amd64/kubectl
+chmod +x ./kubectl
+sudo mv kubectl /usr/local/bin/
+kubectl --version
+```
+4. ### _kops_creation_
+
+[source:kops](https://kubernetes.io/docs/setup/production-environment/tools/kops/) (_refer this document for kops installation_)
+
+
+
+
+
 
 
 
