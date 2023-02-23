@@ -3,6 +3,7 @@
 1. Run kubectl config view to see your current kubeconfig file.
 2. Identify the cluster, user, or context that you want to update.
 3. Run the appropriate command to update the cluster, user, or context. Here are some examples:
+
 1. To update the cluster server URL:
 ```sh
 kubectl config set-cluster <cluster-name> --server=<new-server-url>
